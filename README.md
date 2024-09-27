@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hey, I'm Rostyk Chakivskyi 👋
+
+⚛️ Front-end engineer (React/Next.js) 
+
+🚀 9+ years of industry experience 
+
+🧔 Former WordPress Lead developer 
+
+ 🇺🇦 Based in Lviv, Ukraine 
 
 <!--
 **Rostyk27/rostyk27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

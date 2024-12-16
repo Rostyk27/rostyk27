@@ -1,4 +1,4 @@
-# Hey, I'm Rostyk Chakivskyi 👋
+# Hey, I'm Rostyk Chaikivskyi 👋
 
 ⚛️ Front-end engineer (React/Next.js) 
 
